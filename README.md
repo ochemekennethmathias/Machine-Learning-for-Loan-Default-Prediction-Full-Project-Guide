@@ -1,0 +1,2 @@
+# Machine-Learning-for-Loan-Default-Prediction-Full-Project-Guide
+Loan defaults present significant challenges for banks and lenders, making accurate prediction essential for risk management and better credit decisions. In this project, I developed a machine learning pipeline to forecast the risk of loan default by leveraging customer demographics, loan performance records, and historical loan data. 
